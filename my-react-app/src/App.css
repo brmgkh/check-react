@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  margin-left: 10px;
+  
+}
+#ch1,#ch2{
+ 
+  width: 300px;
+}
+form{
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 300PX;
+
+ 
+}
+.mb-2{
+  text-align: left; 
+  margin-left: 300PX;
+  margin-top: 50PX;
+}
+.container-fluid{
+  background-color: #0d6efd;
+}
+h4{
+  color: white;
+  text-align: right;
+}
+#offcanvasNavbarLabel{
+  width: 300PX;
+  height: 50PX;
+  background-color: #0d6efd;
+  color: white;
+  text-align: center;
+  
+}
